@@ -1,13 +1,3 @@
----
-title: "support"
-menu: "main"
-weight: 6
----
-
-I like sharing things I've learned in the form of writing on my website, as well as creating stuff that will be useful to others. I thought it would be better to have an option via which I can be supported, just in case the things I do have helped someone.
-
-If something here has been useful to you, you're welcome to support the work through any of the options below.
-
 [ko-fi.com/nezutero](https://ko-fi.com/nezutero)
 
 [liberapay.com/nezutero](https://liberapay.com/nezutero/)
