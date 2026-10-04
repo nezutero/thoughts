@@ -1,9 +1,3 @@
----
-title: "library"
-menu: "main"
-weight: 4
----
-
 - [Digital Minimalism](https://www.goodreads.com/book/show/40672036-digital-minimalism) by Cal Newport
 
 - [Dopamine Nation](https://www.goodreads.com/book/show/55723020-dopamine-nation?ref=rae_2) by Anna Lembke

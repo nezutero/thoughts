@@ -1,9 +1,3 @@
----
-title: "uses"
-menu: "main"
-weight: 5
----
-
 A running list of the hardware and software I use day to day. Inspired by [uses.tech](https://uses.tech).
 
 My [dotfiles](https://github.com/nezutero/dotfiles)
@@ -16,7 +10,7 @@ My [dotfiles](https://github.com/nezutero/dotfiles)
 ## Software
 
 - **OS**: [NixOS](https://nixos.org/) (Switched from Arch btw)
-- **WM**: [Hyprland](https://hyprland.org/) (Wayland)
+- **WM**: [Sway](https://swaywm.org/)
 - **Term**: [foot](https://codeberg.org/dnkl/foot)
 - **Term multiplexer**: [tmux](https://github.com/tmux/tmux)
 - **Shell**: [zsh](https://www.zsh.org/)
