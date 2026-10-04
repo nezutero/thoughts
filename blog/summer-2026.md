@@ -1,8 +1,4 @@
----
-title: "On This Summer, and Why I'll Keep Writing"
-date: "2026-09-02"
-tags: ["Reflection", "Minimalism", "IntentionalLiving"]
----
+# On This Summer, and Why I'll Keep Writing
 
 Summer's ending, and I don't think it needs a post for every single thing that happened in it. What it needs, I think, is one short, honest statement, and then I move on to the next chapter.
 

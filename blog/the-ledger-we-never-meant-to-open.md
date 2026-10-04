@@ -1,8 +1,6 @@
----
-title: "On the Ledger I Didn't Know I Was Keeping"
-date: "2026-08-11"
-tags: ["Discipline", "Motivation", "Habits", "SelfCompassion"]
----
+# On the Ledger I Didn't Know I Was Keeping
+
+2026-08-11
 
 *Rewritten 28 August 2026*
 

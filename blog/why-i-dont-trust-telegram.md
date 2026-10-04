@@ -1,8 +1,6 @@
----
-title: "Why I Don't Trust Telegram"
-date: "2026-04-12"
-tags: ["privacy", "freedom", "telegram", "technology"]
----
+# Why I Don't Trust Telegram
+
+2026-04-12
 
 ## Privacy
 

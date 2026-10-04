@@ -1,8 +1,7 @@
----
-title: "On Social Media and Leaving Mastodon"
-date: "2026-07-29"
-tags: ["SocialMedia", "Distraction", "IntentionalLiving", "DigitalMinimalism", "Fediverse",
-"Mastodon"]
+# On Social Media and Leaving Mastodon
+
+2026-07-29
+
 ---
 
 This is my sixth attempt at using Mastodon, and I think it will be my last. I've had this account for one month and one day, and I've decided to delete it: not because of anything specific to Mastodon, but because I've concluded that I'm fundamentally incompatible with social media as a category.

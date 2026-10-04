@@ -1,8 +1,6 @@
----
-title: "Almost Went Back: One Month on NixOS"
-date: "2026-07-21"
-tags: ["NixOS", "Linux"]
----
+# Almost Went Back: One Month on NixOS
+
+2026-07-21
 
 *This is Part 2 of my Linux Odyssey series. [Part 1](https://nezutero.dev/my-linux-odyssey-how-i-ended-up-on-nixos/) covers my path from Ubuntu through Arch Linux and why I decided to try NixOS in the first place. If you haven't read it, start there.*
 
