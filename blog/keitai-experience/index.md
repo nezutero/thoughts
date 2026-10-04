@@ -1,0 +1,83 @@
+# Keitai Experience: Kyocera A202KC
+
+*Rewritten 28 August 2026*
+
+---
+
+For about seven months I kept circling the same idea: buy a Japanese flip phone, a *keitai*, and finally get free of my smartphone. I'd add one to my cart, sit with it for a few days, and cancel the order. That happened two separate times, and each time the same doubt crept in, and each time I told myself I wasn't ready. This time I didn't cancel -- I told myself I'd stop forming opinions from other people's YouTube reviews and blog posts about their own keitai experiments, and actually find out for myself what the thing was like to live with.
+
+## The itch to disconnect
+
+It wasn't that my smartphone was physically burdensome -- I don't like carrying things in my pockets, so it lives in my backpack along with my wallet, ID, transit card, a pocket notebook and pen, sometimes a water bottle. Carrying the backpack itself has become its own kind of ritual, and everything I need being in there gives me a specific, almost bodily sense of safety; half the time I genuinely forget the phone is even inside it. So the weight was never really the problem.
+
+The real irritation was something closer to a lack of choice. My life runs through that device whether I like it or not, and every so often it also runs away with me -- a few extra minutes checking something I didn't need to check, browsing a resale site like Vinted when I only meant to glance at it for thirty seconds. This doesn't happen constantly, and when I'm honest with myself it's rarely more than ten minutes here or there, but it happens often enough that I notice it, and noticing it started to bother me more than the actual time lost.
+
+Keeping my phone deliberately spare was already part of how I try to live. I don't use social media, and everything installed on it earns its place: banking apps, a couple of French apps for buying train tickets, email (which I keep telling myself I should move entirely to my laptop, since constant checking on the go doesn't serve me), maps, weather, Anki for French vocabulary, DeepL for translation -- maybe twenty-five apps total, almost all utilities, nothing engineered to hook me the way social feeds are. And then there are the messengers, which matter more to me than any other category on the phone. WhatsApp, because it's what almost everyone here in France defaults to. Telegram, which I don't fully trust but use anyway as a trade-off -- a lot of people from Ukraine and a few other countries are only reachable there, and staying in touch with them is worth more to me than my discomfort with the platform. Signal, which I'd actually prefer as my primary channel, used with the people willing to switch to it: my family, my brother, a handful of close friends. And Discord, which I keep around mainly for voice calls and genuinely dislike as a company and a product (that's really a separate post on its own), so it comes and goes from my phone depending on whether I currently need it. There's also an IRC client I use rarely, mostly to stay loosely in touch with a hackerspace in my city, almost always from my laptop rather than my phone.
+
+None of this is decorative. It's the actual infrastructure of staying connected to people who matter to me while living somewhere far from most of them. And still, despite how intentional the setup already was, the smoothness of the device itself kept pulling me in for a little longer than I meant, now and then. I wanted to disconnect by removing the convenience itself rather than by willpower -- basically the same instinct behind why I don't keep social media installed at all instead of trying to moderate it. A phone with physical buttons, one that makes even small tasks slightly annoying, seemed like an obvious structural fix. I also just liked the idea of it on its own terms: the aesthetics, the tactility, the click of a hinge, the sense of holding something with an actual mechanism instead of a slab of glass.
+
+## Buying it
+
+So I bought one: a Kyocera Digno 4 Keitai (A202KC), Android 10 running underneath the shell, for about 110 euros on eBay. It arrived in three days, faster than I expected. I picked it up in the morning and spent the rest of that entire day tinkering with it, setting it up, learning the layout, testing what it could and couldn't do.
+
+{{< gallery src="./images/1.webp" name="Kyocera A202KC (Image 1)" >}}
+
+That 110 euros is not a small amount to me. I'm a student living on scholarship money, I don't work, and every euro I spend on an experiment like this is a euro I'm not spending on something else. I want to be honest about that, because it shaped how seriously I took the whole process -- this wasn't an idle purchase.
+
+## Setting it up
+
+The device came loaded with Japanese bloatware I had no use for in France, so the first task was stripping that out and rebuilding it around what I'd actually need. I installed WhatsApp, Telegram, Molly (a Signal fork), Aurora Store as a Google Play alternative, and Droidify, an F-Droid client I ended up liking better than the official F-Droid app. I switched the input method to TT9 after briefly trying a couple of alternatives, and found an app for setting custom key shortcuts, though I never really committed to configuring it (more on why below). Signal reception was solid both inside my apartment and outside on the street, 4G held up fine in everyday use -- though I never tested it outside the city, so I can't speak to that.
+
+{{< gallery src="./images/2.webp" name="Kyocera A202KC (Image 2)" >}}
+
+Physically, the phone is genuinely pleasant -- lighter than my Pixel 8, comfortable in the hand, different in a way that felt novel rather than gimmicky, at least at first. Flipping it open, watching the small external clock, hearing the mechanical click: there's real charm in it, and I don't want to undersell that part. Call audio, on the other hand, is mediocre. The device has a single speaker that doubles as the earpiece, so voice calls come through loud enough to function as an alarm but not exactly pleasant to listen to. Calls made over Telegram, which is the only app I actually tested this way, were about what you'd expect: usable, unremarkable, fine for a quick conversation and nothing more.
+
+## Where the experience fell apart
+
+Past the physical charm, almost everything was friction.
+
+Relearning to type on TT9 was expected -- it's the whole premise of a device like this, and I went in prepared for that learning curve. What I hadn't fully accounted for was how much of ordinary daily life quietly assumes a modern smartphone underneath it. No Google services meant no working GPS, full stop. I never got location working, and I didn't root the device to try harder, since I already suspected fairly early on that this wouldn't become my daily driver. I know from other people's accounts that GPS can be made to work with enough effort, but "enough effort" was exactly the kind of workaround I was trying to opt out of in the first place. No GPS meant no maps, and no maps meant I couldn't reliably navigate anywhere I hadn't already memorized, which, living in a city that isn't my hometown, is a lot of places -- not to mention that memorizing places is a constant struggle for me, since I'm not good at it. Banking apps simply don't run on it at all, and for someone who actively avoids in-person bank appointments by design, that's not a cosmetic inconvenience. It's a real regression in how I manage basic adult life here.
+
+The hardware itself adds its own ceiling. One gigabyte of RAM, eight gigabytes of storage, with roughly half of that already claimed by the operating system before I install a single thing. Without an SD card, which I didn't have on hand, there's very little room left for anything beyond the essentials. And then there's battery. I never got to properly stress-test it, but the stated capacity sits somewhere around 1200mAh, small enough that I doubt it would survive two or three hours of continuous calling. That matters more than it might sound, because the calls I actually care about -- the ones with my parents, my brother, my closest friends back home or in other countries -- tend to run long. Those aren't quick check-ins. A phone that can't comfortably hold a three-hour call isn't compatible with how I actually stay close to the people I love from a distance, not to mention that I love going into the woods and fields in the middle of nowhere while talking on the phone, which makes such calls even more questionable. These phones were designed for Japan, not Europe, so they don't have stable coverage on European bands to begin with.
+
+Even small tasks took visibly longer, and not only during the first clumsy hour. Setting an alarm, once I'd already gotten reasonably fast on the keyboard, still took noticeably more steps and more time than it does on a normal smartphone, where muscle memory and predictive text let you do it almost without thinking. Sending a message means arrowing a cursor over to an on-screen "send" option and pressing OK to confirm, on nearly every app I tried. None of this is a dealbreaker in isolation. Stacked together across a full day, it adds up into a kind of low, constant tax on everything you do.
+
+There's also the camera question, which I think matters more than it first appears. It has one 8 MP camera, which is a potato by today's standards.
+
+{{< gallery src="./images/3.webp" name="Photo taken on Kyocera A202KC" >}}
+
+If you actually want to use a device like this as your main daily driver, and you're not willing to give up photography entirely, you more or less need to carry a separate camera. For me, someone who thinks of himself as a fairly serious digital minimalist, that creates its own contradiction: the whole point was to carry less and depend on less, and yet the "solution" quietly demands acquiring another object to compensate for what the phone can't do.
+
+> Men have become the tools of their tools.
+>
+> -- Henry David Thoreau
+
+He said that about a hundred and seventy years ago, apparently already annoyed at his neighbors' relationship with their equipment. I don't think he'd have been surprised by mine.
+
+I also thought about the social side of it -- the stories I'd read from other keitai users about strangers on the metro asking questions, striking up conversations purely because the device looked unusual. That's a genuinely fun thing to imagine, and I understand the appeal, but it isn't what I was actually after. It does nothing for me on a quiet evening at home, and it isn't a real reason to keep using something that otherwise doesn't work for my life. I wasn't looking to be noticed. I was looking to be less pulled at.
+
+## Running into my own values
+
+I run GrapheneOS on my Pixel 8 specifically because it's about as private and secure an operating system as exists on a mobile device, and that matters to me a great deal -- not as an abstract preference but as something close to a principle. The keitai runs a modified, bloated version of Android 10 with none of that: no equivalent privacy model, no equivalent control over what the device does with my data. I also care, seriously, about free and open source software, about being able to choose which developers and which tools I trust with my own devices. On the keitai I was locked into a much narrower set of choices, with far less freedom than I'm used to having.
+
+So the phone that was supposed to bring me closer to one set of values I hold -- simplicity, intentionality, less wasted time -- was actively working against another set of values I hold just as seriously: privacy, security, freedom over my own tools. It's a contradiction, and it sat with me in a way I hadn't anticipated when I first romanticized the idea -- though, in my humble opinion, it's a fairly predictable one once two values you hold get tested against each other instead of just admired side by side.
+
+And underneath all of that was a more basic mismatch, one I think I'd been avoiding looking at directly. I was evaluating this phone as though I lived a life that doesn't actually need what a smartphone provides. I don't live that life. I live in France. My family and a large part of the people closest to me are in Ukraine. French isn't my first language, and translating on the fly isn't a luxury for me -- it's something I reach for often, sometimes several times a day. Staying in touch with the people I love means internet messengers, because that's simply the infrastructure that exists now for communicating across that kind of distance, whatever reservations I have about individual platforms. Maps aren't a convenience I could shrug off: they're how I move through a city that isn't natively mine without wasting real time getting lost. Banking apps save me from appointments I genuinely don't have time for, as those are complete nonsense and time-wasting. None of that disappears just because I've decided, in the abstract, that a flip phone should be enough for anyone willing to be disciplined about it.
+
+## Having two devices
+
+The discomfort of owning two devices at once -- I'm someone who leans hard into minimalism, sometimes to a degree I'd call over-intentional/extreme, and having a second phone sitting in a drawer, only partially useful, started to feel wrong almost immediately, independent of any of the technical problems above. It wasn't just that the keitai couldn't do certain things. It was that keeping it around at all meant I wasn't using either device at its full capacity, and that specific kind of half-measure bothers me more than owning one imperfect thing outright.
+
+Losing access to my usual tools for even a single day, even briefly and voluntarily, ended up teaching me more about my actual usage patterns than any amount of thinking about it in the abstract ever did. I noticed, almost immediately, how much I take for granted: typing a message without consciously choosing which button to press, having predictive text finish my sentence, trusting that GPS will just work, trusting that my banking app will let me solve a problem in a few taps instead of a scheduled visit somewhere. None of that is glamorous. It's just infrastructure, the kind you stop noticing until it's gone.
+
+## Conclusion
+
+I'd romanticized this a lot: the slow, quiet, "just a phone" fantasy, the idea that removing convenience would automatically produce more presence and less waste. The actual object didn't hold up against that fantasy -- not because it's a badly made flip phone (it isn't), but because it's *deliberately* a downgraded phone, and I was quietly asking it to solve problems that were never really about hardware in the first place. The occasional ten minutes I lose to a resale site isn't a hardware problem. It's a small, fairly rare habit, one I can address directly and mindfully instead of removing my GPS and my banking access to route around it entirely.
+
+So I've decided to sell it. Not with much regret, honestly. It was worth the 110 euros to actually know this firsthand rather than keep wondering for another seven months and cancelling a third order. What I landed on, after all of this, is that minimalism for me was never really supposed to be about the raw number of devices I own. It's about intentionality: using one tool well and on purpose, rather than owning two and using neither at full strength. My Pixel 8 running GrapheneOS already does that job. It's a deliberate, spare setup with nothing installed that's designed to steal my attention, built around the specific needs of the life I actually live: family abroad, a language I'm still learning, administration in a country I live in, and people I care about scattered across more than one country. Trading that for a phone I'd need to route around, compensate for with a second camera, and half-configure with workarounds isn't simplicity. It's just a different, less convenient kind of complexity, dressed up as asceticism.
+
+With university starting again soon, and a schedule that can shift, professors to reach and classmates to coordinate with, I can't honestly picture the keitai holding up under normal semester conditions. That alone tells me most of what I need to know.
+
+The keitai taught me something real, just not the thing I originally expected to learn from it. I went in hoping it would teach me to want my smartphone less. I came out of it understanding, far more precisely than before, exactly why I need it, and what "intentional use" actually looks like when it isn't just a slogan. GrapheneOS is still the answer. I just needed to spend 110 euros and a couple of days of my life to be sure.
+
+Thank you for reading.
